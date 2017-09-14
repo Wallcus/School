@@ -1,0 +1,6 @@
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Vaja01\bin\Debug\Vaja01.exe.config
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Vaja01\bin\Debug\Vaja01.exe
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Vaja01\bin\Debug\Vaja01.pdb
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Vaja01\obj\Debug\Naloga01.csprojResolveAssemblyReference.cache
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Vaja01\obj\Debug\Vaja01.exe
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Vaja01\obj\Debug\Vaja01.pdb

@@ -1,0 +1,5 @@
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Naloga06\bin\Debug\Naloga06.exe.config
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Naloga06\bin\Debug\Naloga06.exe
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Naloga06\bin\Debug\Naloga06.pdb
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Naloga06\obj\Debug\Naloga06.exe
+D:\Uporabnik\Documents\Visual Studio 2013\Projects\Vaja01\Naloga06\obj\Debug\Naloga06.pdb
